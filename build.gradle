@@ -1,0 +1,3 @@
+apply plugin: 'java'
+apply plugin:'application'
+mainClassName = "com.objectspace.graph.node.parser.test.GraphParserTest"
