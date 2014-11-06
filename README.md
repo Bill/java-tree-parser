@@ -1,3 +1,6 @@
+Java Tree Parser
+================
+
 I’ve enjoyed building parsers for a long time. There’s something magical about a well-crafted one, especially when the language designer is in collusion with the parser developer.
 
 In 2001, faced with the need to hire a bunch of developers, it occurred to me that a nice little parsing problem could serve as a nice little exercise for screening developers. So I developed a little programming test based on a parsing problem.
