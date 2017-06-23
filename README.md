@@ -62,13 +62,13 @@ There was only a single code incompatibility between the 2001 Java 1.3 code and 
 
 Here’s the actual test:
 
-Tree Representation and Parsing Test
-====================================
+# Tree Representation and Parsing Test
 
 Introduction
 ------------
 This test provides you the opportunity to demonstrate your knowledge of data structures and algorithms.
-Problem
+
+## Problem
 
 This is a tree:
 
